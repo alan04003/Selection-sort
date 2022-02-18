@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Selection sort\bin\Debug\net5.0\Selection sort.exe
+C:\Users\Admin\Documents\Selection sort\bin\Debug\net5.0\Selection sort.deps.json
+C:\Users\Admin\Documents\Selection sort\bin\Debug\net5.0\Selection sort.runtimeconfig.json
+C:\Users\Admin\Documents\Selection sort\bin\Debug\net5.0\Selection sort.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Selection sort\bin\Debug\net5.0\Selection sort.dll
+C:\Users\Admin\Documents\Selection sort\bin\Debug\net5.0\ref\Selection sort.dll
+C:\Users\Admin\Documents\Selection sort\bin\Debug\net5.0\Selection sort.pdb
+C:\Users\Admin\Documents\Selection sort\obj\Debug\net5.0\Selection sort.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Selection sort\obj\Debug\net5.0\Selection sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Selection sort\obj\Debug\net5.0\Selection sort.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Selection sort\obj\Debug\net5.0\Selection sort.AssemblyInfo.cs
+C:\Users\Admin\Documents\Selection sort\obj\Debug\net5.0\Selection sort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Selection sort\obj\Debug\net5.0\Selection sort.dll
+C:\Users\Admin\Documents\Selection sort\obj\Debug\net5.0\ref\Selection sort.dll
+C:\Users\Admin\Documents\Selection sort\obj\Debug\net5.0\Selection sort.pdb
+C:\Users\Admin\Documents\Selection sort\obj\Debug\net5.0\Selection sort.genruntimeconfig.cache
